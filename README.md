@@ -12,9 +12,7 @@ No frameworks. No paid APIs. Just the basics.
 
 ## 📸 Preview
 
-<!-- Add your screenshot here -->
-![Mausam Preview](<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/7f7675fb-d720-49b8-92a1-49d0c565beb0" />
-)
+![Mausam Preview](https://github.com/user-attachments/assets/7f7675fb-d720-49b8-92a1-49d0c565beb0)
 
 ---
 
@@ -81,8 +79,8 @@ Mausam---Live-weather-App/
 ## 👨‍💻 Author
 
 **Ankit Vishwa**  
-[![LinkedIn](www.linkedin.com/in/ankit-vishwak-2b74573a4)
-[![GitHub](https://github.com/Ankitvishwa85)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-vishwak-2b74573a4)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Ankitvishwa85)
 
 ---
 
